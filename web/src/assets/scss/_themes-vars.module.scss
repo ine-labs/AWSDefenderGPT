@@ -1,0 +1,305 @@
+// // paper & background
+// $paper: #0d0d0d; // Change to your desired dark background color
+
+// // primary
+// $primaryLight: #171717;
+// $primaryMain: #f9f9f9;
+// $primaryDark: #171717;
+// $primary200: #f9f9f9;
+// $primary800: #eef2f6; // Change to your desired light text color
+
+// // secondary
+// $secondaryLight: #171717;
+// $secondaryMain: #5e46a8;
+// $secondaryDark: #eae9ed;
+// $secondary200: #b39ddb;
+// $secondary800: #ede7f6; // Change to your desired light text color
+
+// // success Colors
+// $successLight: #00c853;
+// $success200: #69f0ae;
+// $successMain: #282828;
+// $successDark: #171717;
+
+// // error
+// $errorLight: #c62828;
+// $errorMain: #171717;
+// $errorDark: #ef9a9a;
+
+// // orange
+// $orangeLight: #d84315;
+// $orangeMain: #ffab91;
+// $orangeDark: #fbe9e7;
+
+// // warning
+// $warningLight: #ffc107;
+// $warningMain: #f9f9f9;
+// $warningDark: #fff8e1;
+
+// // grey
+// $grey50: #383838; // Dark background color
+// $grey100: #f9f9f9;
+// $grey200: #f9f9f9;
+// $grey300: #f9f9f9;
+// $grey500: #f9f9f9;
+// $grey600: #f9f9f9; // Light text color
+// $grey700: #f9f9f9; // Light background color
+// $grey900: #f9f9f9; // Change to your desired light background color
+
+// paper & background
+$paper: #131314; // Change to your desired dark background color
+
+// primary
+$primaryLight: #131314;
+$primaryMain: #1d4973;
+$primaryDark: #1565c0;
+$primary200: #90caf9;
+$primary800: #eef2f6; // Change to your desired light text color
+
+// secondary
+$secondaryLight: #1d4973;
+$secondaryMain: #5e46a8;
+$secondaryDark: #eae9ed;
+$secondary200: #b39ddb;
+$secondary800: #ede7f6; // Change to your desired light text color
+
+// success Colors
+$successLight: #00c853;
+$success200: #1565c0;
+$successMain: #00e676;
+$successDark: #b9f6ca;
+
+// error
+$errorLight: #c62828;
+$errorMain: #f44336;
+$errorDark: #ef9a9a;
+
+// orange
+$orangeLight: #d84315;
+$orangeMain: #ffab91;
+$orangeDark: #fbe9e7;
+
+// warning
+$warningLight: #ffc107;
+$warningMain: #ffe57f;
+$warningDark: #fff8e1;
+
+// grey
+$grey50: #1e1f20; // Dark background color
+$grey100: #2f2f2f;
+$grey200: #424242;
+$grey300: #616161;
+$grey500: #b0bec5;
+$grey600: #cfd8dc; // Light text color
+$grey700: #eceff1; // Light background color
+$grey900: #ffffff; // Change to your desired light background color
+
+
+
+// // paper & background
+// $paper: #121926;
+
+// // primary
+// $primaryLight: #1e88e5;
+// $primaryMain: #1565c0;
+// $primaryDark: #0d47a1;
+// $primary200: #90caf9;
+// $primary800: #2196f3;
+
+// // secondary
+// $secondaryLight: #5e35b1;
+// $secondaryMain: #4527a0;
+// $secondaryDark: #311b92;
+// $secondary200: #b39ddb;
+// $secondary800: #ede7f6;
+
+// // success Colors
+// $successLight: #00c853;
+// $success200: #00e676;
+// $successMain: #69f0ae;
+// $successDark: #b9f6ca;
+
+// // error
+// $errorLight: #c62828;
+// $errorMain: #f44336;
+// $errorDark: #ef9a9a;
+
+// // orange
+// $orangeLight: #d84315;
+// $orangeMain: #ffab91;
+// $orangeDark: #fbe9e7;
+
+// // warning
+// $warningLight: #ffc107;
+// $warningMain: #ffe57f;
+// $warningDark: #fff8e1;
+
+// // grey
+// $grey50: #121926;
+// $grey100: #1b2330;
+// $grey200: #262f3e;
+// $grey300: #364152;
+// $grey500: #8a96a6;
+// $grey600: #b0bcc8;
+// $grey700: #cad1db;
+// $grey900: #f2f4f8;
+
+
+
+// // paper & background
+// $paper: #ffffff;
+
+// // primary
+// $primaryLight: #eef2f6;
+// $primaryMain: #2196f3;
+// $primaryDark: #1e88e5;
+// $primary200: #90caf9;
+// $primary800: #1565c0;
+
+// // secondary
+// $secondaryLight: #ede7f6;
+// $secondaryMain: #673ab7;
+// $secondaryDark: #5e35b1;
+// $secondary200: #b39ddb;
+// $secondary800: #4527a0;
+
+// // success Colors
+// $successLight: #b9f6ca;
+// $success200: #69f0ae;
+// $successMain: #00e676;
+// $successDark: #00c853;
+
+// // error
+// $errorLight: #ef9a9a;
+// $errorMain: #f44336;
+// $errorDark: #c62828;
+
+// // orange
+// $orangeLight: #fbe9e7;
+// $orangeMain: #ffab91;
+// $orangeDark: #d84315;
+
+// // warning
+// $warningLight: #fff8e1;
+// $warningMain: #ffe57f;
+// $warningDark: #ffc107;
+
+// // grey
+// $grey50: #f8fafc;
+// $grey100: #eef2f6;
+// $grey200: #e3e8ef;
+// $grey300: #cdd5df;
+// $grey500: #697586;
+// $grey600: #4b5565;
+// $grey700: #364152;
+// $grey900: #121926;
+
+// ==============================|| DARK THEME VARIANTS ||============================== //
+
+// paper & background
+$darkBackground: #1a223f; // level 3
+$darkPaper: #111936; // level 4
+
+// dark 800 & 900
+$darkLevel1: #29314f; // level 1
+$darkLevel2: #212946; // level 2
+
+// primary dark
+$darkPrimaryLight: #eef2f6;
+$darkPrimaryMain: #2196f3;
+$darkPrimaryDark: #1e88e5;
+$darkPrimary200: #90caf9;
+$darkPrimary800: #1565c0;
+
+// secondary dark
+$darkSecondaryLight: #d1c4e9;
+$darkSecondaryMain: #7c4dff;
+$darkSecondaryDark: #651fff;
+$darkSecondary200: #b39ddb;
+$darkSecondary800: #6200ea;
+
+// text variants
+$darkTextTitle: #d7dcec;
+$darkTextPrimary: #bdc8f0;
+$darkTextSecondary: #8492c4;
+
+// ==============================|| JAVASCRIPT ||============================== //
+
+:export {
+  // paper & background
+  paper: $paper;
+
+  // primary
+  primaryLight: $primaryLight;
+  primary200: $primary200;
+  primaryMain: $primaryMain;
+  primaryDark: $primaryDark;
+  primary800: $primary800;
+
+  // secondary
+  secondaryLight: $secondaryLight;
+  secondary200: $secondary200;
+  secondaryMain: $secondaryMain;
+  secondaryDark: $secondaryDark;
+  secondary800: $secondary800;
+
+  // success
+  successLight: $successLight;
+  success200: $success200;
+  successMain: $successMain;
+  successDark: $successDark;
+
+  // error
+  errorLight: $errorLight;
+  errorMain: $errorMain;
+  errorDark: $errorDark;
+
+  // orange
+  orangeLight: $orangeLight;
+  orangeMain: $orangeMain;
+  orangeDark: $orangeDark;
+
+  // warning
+  warningLight: $warningLight;
+  warningMain: $warningMain;
+  warningDark: $warningDark;
+
+  // grey
+  grey50: $grey50;
+  grey100: $grey100;
+  grey200: $grey200;
+  grey300: $grey300;
+  grey500: $grey500;
+  grey600: $grey600;
+  grey700: $grey700;
+  grey900: $grey900;
+
+  // ==============================|| DARK THEME VARIANTS ||============================== //
+
+  // paper & background
+  darkPaper: $darkPaper;
+  darkBackground: $darkBackground;
+
+  // dark 800 & 900
+  darkLevel1: $darkLevel1;
+  darkLevel2: $darkLevel2;
+
+  // text variants
+  darkTextTitle: $darkTextTitle;
+  darkTextPrimary: $darkTextPrimary;
+  darkTextSecondary: $darkTextSecondary;
+
+  // primary dark
+  darkPrimaryLight: $darkPrimaryLight;
+  darkPrimaryMain: $darkPrimaryMain;
+  darkPrimaryDark: $darkPrimaryDark;
+  darkPrimary200: $darkPrimary200;
+  darkPrimary800: $darkPrimary800;
+
+  // secondary dark
+  darkSecondaryLight: $darkSecondaryLight;
+  darkSecondaryMain: $darkSecondaryMain;
+  darkSecondaryDark: $darkSecondaryDark;
+  darkSecondary200: $darkSecondary200;
+  darkSecondary800: $darkSecondary800;
+}
